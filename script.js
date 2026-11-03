@@ -1,5 +1,5 @@
 /**
- * CULTURE HOUSE — Production Atelier
+ * CULTURE HAUS — Production Atelier
  * Custom Front-End Interactions
  */
 
